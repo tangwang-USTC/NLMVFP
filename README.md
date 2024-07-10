@@ -1,2 +1,1 @@
-# NLVFP
-Nonlinear Volasov-Fokker-Planck (VFP) solver 
+Nonlinear Vlasov-Fokker-Planck (VFP) solver 
