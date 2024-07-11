@@ -1,1 +1,1 @@
-Nonlinear Vlasov-Fokker-Planck (VFP) solver 
+Nonlinear solver for Maxwell-Vlasov-Fokker-Planck (MVFP)
